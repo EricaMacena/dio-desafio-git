@@ -1,0 +1,1 @@
+GitBash é um terminal para ampliar o uso do Github
